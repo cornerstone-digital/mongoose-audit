@@ -12,9 +12,6 @@
     "backup"
   ],
   "license": "BSD-2-Clause",
-  "engines": {
-    "node": "0.10.26"
-  },
   "devDependencies": {
     "mocha": "^2.1.0",
     "should": "^5.0.0",
